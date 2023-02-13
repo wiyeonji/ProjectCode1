@@ -6,7 +6,7 @@ import java.net.Socket;
 import java.util.Scanner;
 
 import org.json.JSONObject;
-
+//추가코드입니다.햐
 public class ChatClient {
 	Socket socket;
 	DataInputStream dis;
